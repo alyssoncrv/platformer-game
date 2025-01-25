@@ -1,1 +1,1 @@
-<img src="/public/screenshot.jpg">
+<img src="PlatformerGame/res/screenshot.jpg">
